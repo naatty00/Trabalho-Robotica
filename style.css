@@ -1,0 +1,11 @@
+.Texto1 {
+text-align:center;
+}
+.texto-aparecendo {
+    opacity: 0; 
+    transition: opacity 0.5s ease; 
+}
+
+.texto-aparecendo:hover {
+    opacity: 0; 
+}
